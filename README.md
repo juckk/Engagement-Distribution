@@ -2,4 +2,4 @@
 
 This project contains a histogram that shows the engagement distribution.
 
-![Engagement Distribution](./plot.png)
+![Engagement Distribution](./Freedman-Duaconis.png)
